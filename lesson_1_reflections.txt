@@ -1,36 +1,26 @@
-How did viewing a diff between two versions of a file help you see the bug that
+1) How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
-
-By using diff command I got the exact areas in the file where that were changed.
+  By using diff command I got the exact areas in the file that were changed.
 Hence was able to spot the error.
 
-How could having easy access to the entire history of a file make you a better
+2)How could having easy access to the entire history of a file make you a better
 programmer in the long term?
+  Help you find errors quickly
 
-Help you find errors quickly
-
-What do you think are the pros and cons of manually choosing when to create a
+3)What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
+  Pros - More logical code
+  Cons - Might forget to commit 
 
-Pros - More logical code
-Cons - Might forget to commit 
-
-Why do you think some version control systems, like Git, allow saving multiple files
+4)Why do you think some version control systems, like Git, allow saving multiple files
 in one commit, while others, like Google Docs, treat each file separately?
+  Because the files are inter-related.
 
-Because they are inter-related.
+5)How can you use the commands git log and git diff to view the history of files?
+  Git log gives you the list of commits along with their ids. You can use these 
+  ids with git diff to find out the number of insertions and deletions.
 
-How can you use the commands git log and git diff to view the history of files?
+6)How might using version control make you more confident to make changes that could break something?
+  You are more confident because you know even if something breaks you will be able to fix it easily.
 
-git log gives you the list of commits along with their ids. You can use these 
-ids with git diff to find out the number of insertions and deletions.
-
-Reflect: Confidence from Version Control
-
-How might using version control make you more confident to make changes that could break something?
-
-You are more confident because you know even if something breaks you will be able to fix it easily.
-
-Now that you have your workspace set up, what do you want to try using Git for?
-Version Control
