@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initializing a repository creates an empty repository
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+Staging area contains those files that are to be committed.  
+It allows you to commit 2 or related files together
