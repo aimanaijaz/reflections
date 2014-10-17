@@ -6,3 +6,12 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 Staging area contains those files that are to be committed.  
 It allows you to commit 2 or related files together
+
+How can you use the staging area to make sure you have one commit per logical change?
+Sorry I dont knw how
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to experiment some change without affecting to your main code.
+
+How do the diagrams help you visualize the branch structure?
+By making it very clear
